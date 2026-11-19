@@ -1,0 +1,10 @@
+{
+    "epiql_program_path": "models/tiny-town-demo.epiql",
+    "timesteps": 60,
+    "input_datasets": "data/tiny-town.json",
+    "output_dir": "output",
+    "output_format": "csv",
+    "profile_rules": true,
+    "monte_carlo_runs": 20,
+    "start_date": "2020-03-01"
+}

@@ -1,0 +1,18 @@
+# Downloaded input data: keep the downloader, descriptors and tiny-town
+/data/*
+!/data/download.py
+!/data/README.md
+!/data/*.json
+!/data/tiny-town/
+
+# Binaries, run output and the web interface's default workspace
+/epiql
+/epiql-web
+*.exe
+/output
+/runs
+/epiql-workspace
+__pycache__/
+
+# Release archives are attached to GitHub Releases, not committed
+*.tar.gz

@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "dataset-name": "bel-100k",
+    "description": "Sample of the Belgian population of size 100k (STRIDE-derived)."
+  },
+  "files": [
+    { "name": "Persons",         "path": "bel-100k/persons.parquet" },
+    { "name": "PersonMember",    "path": "bel-100k/person_member.parquet" },
+    { "name": "ContactProb",     "path": "bel-100k/contactprob_symmetric.parquet" },
+    { "name": "ProbSymptomatic", "path": "common/prob_symptomatic.parquet" },
+    { "name": "Calendar",        "path": "common/Calendar" }
+  ]
+}

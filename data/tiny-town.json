@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "dataset-name": "tiny-town",
+    "description": "Eight people in three households, and a school for the children; small enough to check every result by hand. Used by the tutorial, and has the five input relations of the library models: every person is also in a community, the adults 1, 2 and 7 work, and the calendar has weekdays and weekends for 365 days."
+  },
+  "files": [
+    { "name": "Persons", "path": "tiny-town/persons.csv" },
+    { "name": "Household", "path": "tiny-town/household.csv" },
+    { "name": "School", "path": "tiny-town/school.csv" },
+    { "name": "PersonMember", "path": "tiny-town/person_member.csv" },
+    { "name": "ContactProb", "path": "tiny-town/contact_prob.csv" },
+    { "name": "ProbSymptomatic", "path": "tiny-town/prob_symptomatic.csv" },
+    { "name": "Calendar", "path": "tiny-town/calendar" }
+  ]
+}
