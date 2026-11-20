@@ -8,9 +8,7 @@ discrete timesteps on a population dataset. Underneath, it compiles every rule t
 plan and runs it on a query engine.
 
 > **About this repository.** It contains the EpiQL binaries (under
-> [Releases](../../releases)), example models, the tutorial and example data. The source
-> code is not public: the query engine underneath EpiQL is ongoing research that has not
-> been published yet.
+> [Releases](../../releases)), example models, the tutorial and example data. The source code is subject to ongoing research, we aim to release it in the future.
 
 
 ## What is included
